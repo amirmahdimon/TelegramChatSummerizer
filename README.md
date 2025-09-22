@@ -20,8 +20,8 @@ A Telegram bot that summarizes group chat messages using Google's Gemini AI with
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/tel-py.git
-   cd tel-py
+   git clone https://github.com/amirmahdimon/TelegramChatSummerizer.git
+   cd TelegramChatSummerizer
    ```
 
 2. Install dependencies:

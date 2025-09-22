@@ -1,6 +1,6 @@
 # GhoncheSummerizer Bot
 
-A Telegram bot that summarizes group chat messages using Google's Gemini AI with a humorous, friendly twist. Created specifically for FARHAN with love! 😈
+A Telegram bot that summarizes group chat messages using Google's Gemini AI with a humorous, friendly twist.
 
 ## Features
 
